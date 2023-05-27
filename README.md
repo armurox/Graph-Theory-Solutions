@@ -1,1 +1,1 @@
-My solutions to Homeworks provided in Graph Theory, EN.550.472, taught by Dr. Edinah Gnang. These solutions were developed in collaboration with others, indicated at the top depending on the homework.
+My solutions to Homeworks provided in Graph Theory, EN.550.472, taught by Dr. Edinah Gnang. These solutions were developed in collaboration with others, indicated at the top depending on the homework. These solutions are still being actively updated as I gain more maturity and experience with graph theory as a whole.
